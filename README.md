@@ -16,10 +16,10 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="[https://your-portfolio-link.com](https://portfolio-new-one-pi.vercel.app/)" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/aditya-bhat-3661a8200/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -37,18 +37,6 @@
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"/>
 </p>
 
 ---
