@@ -9,7 +9,7 @@
 - 🎨 I enjoy working with **HTML, CSS, SCSS, and JavaScript**
 - ⚙️ I have experience with **WordPress** and **CodeIgniter**
 - 👨‍💻 All of my projects are available on my **portfolio website**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **aditya.bhat.dev@gmail.com**
 
 ---
 
